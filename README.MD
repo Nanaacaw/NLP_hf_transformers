@@ -1,45 +1,11 @@
 # NLP with Hugging Face Transformers
 
-This project explores Natural Language Processing (NLP) techniques using the Hugging Face Transformers library. It covers various tasks and methods for implementing state-of-the-art NLP models in Python, enabling efficient language processing and generation.
+Proyek ini mengeksplorasi teknik Pemrosesan Bahasa Alami (NLP) menggunakan pustaka Hugging Face Transformers. Proyek ini mencakup berbagai tugas dan metode untuk mengimplementasikan model NLP terkini dalam Python, yang memungkinkan pemrosesan dan pembuatan bahasa yang efisien.
 
 <div align ='center'>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </div>
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Analyze](#analyze)
-
-## Introduction
-
-This notebook demonstrates how to leverage Hugging Face Transformers to build NLP applications. The project includes tasks like tokenization, model training, and evaluation using pre-trained models from the Hugging Face Hub.
-
-## Prerequisites
-
-To run this project, you need:
-
-- Python 3.6 or higher
-- Jupyter Notebook
-- Basic understanding of NLP concepts
-
-## Analyze
-
-- **Zero-Shot Classification**
-
-Zero-Shot Classification merupakan teknik klasifikasi di mana model dapat melakukan klasifikasi tanpa perlu dilatih pada data yang memiliki label tersebut. Menarik untuk dicoba karena model dapat beradaptasi dengan berbagai jenis label tanpa memerlukan dataset yang besar untuk setiap kategori. Selanjutnya, mengurangi waktu dan biaya pelatihan, karena tidak perlu melatih model untuk setiap tugas klasifikasi baru.
-
-- **Text Generation**
-
-Penggunaan model text generation untuk menghasilkan teks juga sangat relevan dalam pembuatan konten otomatis, karena model dapat menghasilkan teks dengan gaya dan nada yang berbeda, yang memungkinkan penulisan konten yang lebih bervariasi dan kreatif. Selanjutnya, text generation juga mempermudah proses penulisan, terutama untuk tugas-tugas yang memerlukan banyak variasi, seperti pembuatan dialog atau cerita dan tidak dapat menutup kemungkinan dapat diterapkan di banyak bidang, termasuk pemasaran, penulisan artikel, dan pembuatan konten media sosial.
-
-- **Fill-mask**
-
-Fungsi fill-mask menggunakan teknik pemodelan ba# NLP with Hugging Face Transformers
-
-Proyek ini mengeksplorasi teknik Pemrosesan Bahasa Alami (NLP) menggunakan pustaka Hugging Face Transformers. Proyek ini mencakup berbagai tugas dan metode untuk mengimplementasikan model NLP terkini dalam Python, yang memungkinkan pemrosesan dan pembuatan bahasa yang efisien.
 
 ## Table of Contents
 
@@ -71,7 +37,9 @@ Penggunaan model text generation untuk menghasilkan teks juga sangat relevan dal
 
 - **Fill-mask**
 
-Fungsi fill-mask menggunakan teknik pemodelan bahasa untuk mengisi bagian yang hilang dari teks. Tentu hal Ini menarik untuk eksplorasi karena model dapat memahami konteks dari kalimat dan menghasilkan kata yang sesuai, memperlihatkan pemahaman bahasa yang dalam.
+Fungsi fill-mask menggunakan teknik pemodelan ba# NLP with Hugging Face Transformers
+
+Proyek ini mengeksplorasi teknik Pemrosesan Bahasa Alami (NLP) menggunakan pustaka Hugging Face Transformers. Proyek ini mencakup berbagai tugas dan metode untuk mengimplementasikan model NLP terkini dalam Python, yang memungkinkan pemrosesan dan pembuatan bahasa yang efisien.
 
 - **NER** (_Named Entity Recognition_)
 

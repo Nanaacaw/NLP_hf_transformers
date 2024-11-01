@@ -1,17 +1,17 @@
-d# NLP with Hugging Face Transformers
+# NLP with Hugging Face Transformers
 
 This project explores Natural Language Processing (NLP) techniques using the Hugging Face Transformers library. It covers various tasks and methods for implementing state-of-the-art NLP models in Python, enabling efficient language processing and generation.
+
+<div align ='center'>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+</div>
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Analyze](#analyze)
-
-<div align ='center'>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-</div>
 
 ## Introduction
 
